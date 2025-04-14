@@ -8,7 +8,7 @@
 
 ---
 
-### :nail_care: Languages and Tools
+### :nail_care: Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@
 
 ---
 
-### :cat2: My Stats
+### :cat2: Stats
 <table>
   <tr>
     <td valign=top>
@@ -35,4 +35,5 @@
     </td>
   </tr>
 </table>
+
 
